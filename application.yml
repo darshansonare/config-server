@@ -1,1 +1,5 @@
+spring:
+  datasource:
+    username: root
+    password: Pass@123
 
